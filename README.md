@@ -1,5 +1,6 @@
 My Lovely Project
 =================
+I am learning github command and process via Udemy tutorials
 
 A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
 
